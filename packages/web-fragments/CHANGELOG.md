@@ -2,6 +2,12 @@
 
 ## 0.1.2
 
+### Patch Changes
+
+- 99e7fc2: Cloudflare Pages fragment gateway middleware now streams fragment content from upstream
+
+## 0.1.2
+
 # Minor Changes
 
 - b449ed4: [gateway] BREAKING CHANGE: Fragment registration `FrgamentConfig` property `upstream` renamed to `endpoint`.
